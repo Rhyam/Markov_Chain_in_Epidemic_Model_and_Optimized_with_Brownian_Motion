@@ -4,12 +4,17 @@
 &nbsp; 
 
 - **SEIR.py, SIR.py, SI.py**
+
   经典传染病动力学模型模拟。
 - **epidemic_data.xlsx**
+
   记录了传染病数据。
 - **COVID-19_in_HuBei_SEIR.py, COVID-19_in_HuBei_SIR.py**
+
   用SEIR模型和SIR模型对上述数据进行模拟。
 - **improved_SEIR.py**
+
   针对上述数据的优化SEIR模型，用于预测。
 - **SEIRwithBrown.py**
+
   结合布朗运动的优化模型，并有添加了隔离机制的模型。
